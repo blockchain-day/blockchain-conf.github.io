@@ -1,4 +1,4 @@
-# First International Workshop on Blockchains and Distributed Ledger Technologies (DLTs) @ ACM SACMAT
+# First International Workshop on Blockchains and Distributed Ledger Technologies (DLTs) @ [ACM SACMAT](http://www.sacmat.org/2019/index.php)
 June 3rd, 2019 @ Toronto, Canada
 
 ## Overview
