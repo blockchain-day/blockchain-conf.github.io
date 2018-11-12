@@ -35,5 +35,6 @@ We are soliciting participants to present their work at the workshop. We are loo
 [Kaiwen Zhang](https://fuseelab.github.io/), [École de technologie supérieure](https://www.etsmtl.ca/Bottin/ETS/MotCle/FicheEmploye?Numero=6866), Montréal (Canada)
 
 ## Submission Information
-Please submit an abstract and speaker biography to the workshop chair: kaiwen.zhang@etsmtl.ca.
+Please submit an abstract and speaker biography to the workshop chair: [kaiwen.zhang@etsmtl.ca](mailto:kaiwen.zhang@etsmtl.ca).
+
 The submission deadline is: March 31st, 2019.
