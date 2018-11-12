@@ -15,9 +15,9 @@ The workshop aims to provide a balanced outlook and is designed for wide audienc
 We are soliciting participants to present their work at the workshop. We are looking for (but are not limited to) the following types of talks:
 1. Presentations of previously published conference or journal articles at other venues
 2. Presentations on ongoing, unpublished, research
-3. Presentations from industrial participants on novel use cases and their experience working with blockchains
+3. Presentations on industrial use cases and lessons learned working with blockchains
 4. Presentations of vision/blue-sky topics or position papers
-5. Presentations on non-technical aspects related to blockchains (e.g. cryptocurrency mining, exchanges, etc.)
+5. Presentations on related aspects to blockchains (e.g. cryptocurrency mining, exchanges, etc.)
 
 ## Topics (not limited to this list)
 1. Integration of access control technologies with DLTs
