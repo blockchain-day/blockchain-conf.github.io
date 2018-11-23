@@ -14,7 +14,7 @@ The workshop aims to provide a balanced outlook and is designed for wide audienc
 ## Structure
 We are soliciting participants to present their work at the workshop. We are looking for (but are not limited to) the following types of talks:
 1. Presentations of **previously published** conference or journal articles at other venues
-2. Presentations on **ongoing**, unpublished, research (the research paper can optionally be part of the SACMAT proceedings)
+2. Presentations on **ongoing**, unpublished, research (can optionally be part of the SACMAT proceedings)
 3. Presentations on the design, implementation, and evaluation of **novel use cases** for blockchains
 4. Presentations on **adoption roadmap**, technical and non-technical barriers, especially in **industry**
 5. Presentations of **vision/blue-sky** topics or **position papers**
