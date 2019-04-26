@@ -38,4 +38,4 @@ We are soliciting participants to present their work at the workshop. We are loo
 
 ## Submission Information
 Please submit an abstract and speaker biography to the workshop chair: [kaiwen.zhang@etsmtl.ca](mailto:kaiwen.zhang@etsmtl.ca).<br/>
-The submission deadline is: **March 31st, 2019**.
+The submission deadline is: ~~**March 31st, 2019**~~.
