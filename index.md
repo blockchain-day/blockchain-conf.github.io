@@ -12,6 +12,45 @@ Furthermore, this workshop will also examine the state-of-art in blockchain rese
 
 The workshop aims to provide a balanced outlook and is designed for wide audience of industrial and academic participants. There will be a broad range of talks to cater to both beginners and advanced blockchain users. Furthermore, the talks will range from applications and experiences using DLTs to theoretical, technical, and system-oriented topics.
 
+## Preliminary program ##
+
+<details>
+  <summary>8:30-10:00 Kaiwen Zhang (ÉTS Montreal): Blockchain Tutorial Part 1: Consensus, Bitcoin</summary>
+    
+**Abstract**: Popularly known for powering cryptocurrencies such as Bitcoin and Ethereum, blockchains is seen as a disruptive technology capable of impacting a wide variety of domains, ranging from finance to governance, by offering superior security, reliability, and transparency in a decentralized manner. In this tutorial presentation, we first study the original Bitcoin design, as well as Ethereum and Hyperledger, and reflect on their design from an academic perspective. We provide an overview of potential applications and associated research challenges, as well as a survey of ongoing research projects. We mention opportunities blockchain creates for event-based systems. Finally, we conclude with a walkthrough showing the process of developing a decentralized application (DApp), using a popular Smart Contract language (Solidity) for the blockchain platform of Ethereum.
+  
+**Speaker Bio**: Kaiwen Zhang is an Assistant Professor in the Department of Software and IT Engineering at ÉTS Montréal (University of Québec), head of the [FUSÉE Laboratory](https://fuseelab.github.io/). Previously, he was an Alexander von Humboldt postdoctoral fellow in Computer Science at the TU Munich (2015-2017) and a member of the Middleware Systems Research Group. Dr. Zhang obtained his B.Sc. and M.Sc. at McGill University in Montréal and his Ph.D. at the University of Toronto. His research interests include blockchain technologies, publish/subscribe systems, massively multiplayer online games, and software-defined networking. Dr. Zhang's expertise lies at the intersection of distributed systems, networking, and data management. His research is published in premier distributed systems conferences such as IEEE ICDCS and ACM Middleware.
+</details>
+
+10:00-10:30 Tea break
+
+<details>
+  <summary>10:30-12h00 Kaiwen Zhang (ÉTS Montreal): Blockchain Tutorial Part 2: Smart contracts, Ethereum, Hyperledger</summary>
+ 
+**Abstract**: Popularly known for powering cryptocurrencies such as Bitcoin and Ethereum, blockchains is seen as a disruptive technology capable of impacting a wide variety of domains, ranging from finance to governance, by offering superior security, reliability, and transparency in a decentralized manner. In this tutorial presentation, we first study the original Bitcoin design, as well as Ethereum and Hyperledger, and reflect on their design from an academic perspective. We provide an overview of potential applications and associated research challenges, as well as a survey of ongoing research projects. We mention opportunities blockchain creates for event-based systems. Finally, we conclude with a walkthrough showing the process of developing a decentralized application (DApp), using a popular Smart Contract language (Solidity) for the blockchain platform of Ethereum.
+  
+**Speaker Bio**: Kaiwen Zhang is an Assistant Professor in the Department of Software and IT Engineering at ÉTS Montréal (University of Québec), head of the [FUSÉE Laboratory](https://fuseelab.github.io/). Previously, he was an Alexander von Humboldt postdoctoral fellow in Computer Science at the TU Munich (2015-2017) and a member of the Middleware Systems Research Group. Dr. Zhang obtained his B.Sc. and M.Sc. at McGill University in Montréal and his Ph.D. at the University of Toronto. His research interests include blockchain technologies, publish/subscribe systems, massively multiplayer online games, and software-defined networking. Dr. Zhang's expertise lies at the intersection of distributed systems, networking, and data management. His research is published in premier distributed systems conferences such as IEEE ICDCS and ACM Middleware.
+</details>
+
+12h00-13h00 Lunch break
+
+13h-14h40 Session 1
+    Yahya Shahsavari (ÉTS Montreal): Performance Modeling and Analysis of the Bitcoin Inventory Protocol
+    Edward Zhang (UofT): Optimizing Consensus Algorithms for Permissioned Blockchains
+    Claudio Miceli (Federal University of Rio de Janeiro): A smart contract for patient records in odontology school
+    James Webster (Penn State), Michael Steward (Penn State):  Granting and revoking permissions using a distributed ledger, at a global scale
+    
+14h40-15h10 Coffee break
+
+15h10-17h15 Session 3
+    Andreas Schaad (University of Applied Sciences Offenburg): Using a secure element as a blockchain oracle
+    Victor Ermolaev (Bitfury), Albert Dercksen (Nedap):  Quis custodiet ipsos custodes?
+    Layth Sliman (EFREI): Towards Blockchain-Based Collaborative Enterprise
+    Wes Fulford (Bitfarms): Overview of the mining industry in North America
+    Will Zhang (Finetics): TBD
+
+17h30 - Reception
+
 ## Structure
 We are soliciting participants to present their work at the workshop. We are looking for (but are not limited to) the following types of talks:
 1. Presentations of **previously published** conference or journal articles at other venues
