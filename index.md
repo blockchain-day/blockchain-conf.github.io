@@ -38,19 +38,21 @@ The workshop aims to provide a balanced outlook and is designed for wide audienc
 
 <details>
   <summary>Yahya Shahsavari (ÉTS Montreal): Performance Modeling and Analysis of the Bitcoin Inventory Protocol</summary>
-    
+**Abstract**: Blockchains are currently gaining attention as a newly emerging technology in both academia and industry, capable of impacting a variety of domains beyond cryptocurrencies. Performance modeling can be used to provide us with a deeper understanding of the behavior and dynamics within blockchain peer-to-peer networks. Blockchain system architects can leverage network models to properly tune their system and to reduce design costs significantly. In this paper, we focus on the original and well-established Bitcoin blockchain network. In particular, we propose a random graph model for performance modeling and analysis of the inventory-based protocol for block dissemination. This model addresses the impact of key blockchain parameters on the overall performance of Bitcoin. We derive some explicit and closed-form equations for block propagation delay and traffic overhead. We implement our model using the popular network simulator OMNet++. We validate the accuracy of our theoretical model and its implementation with our dataset mined from the Bitcoin network. Our results show the trade-off between the default number of connections per node, network bandwidth, and block size in order to compute the optimal block propagation delay over the network.
+  
+**Speaker Bio**: TBD
 </details>
 <details>
   <summary>Edward Zhang (UofT): Optimizing Consensus Algorithms for Permissioned Blockchains</summary>
-
+**Abstract**: 
 </details>
 <details>
   <summary>Claudio Miceli (Federal University of Rio de Janeiro): A smart contract for patient records in odontology school</summary>
-
+**Abstract**: 
 </details>
 <details>
   <summary>James Webster (Penn State), Michael Steward (Penn State):  Granting and revoking permissions using a distributed ledger, at a global scale</summary>
-
+**Abstract**: 
 </details>
     
 14h40-15h10 Coffee break
@@ -59,23 +61,23 @@ The workshop aims to provide a balanced outlook and is designed for wide audienc
 
 <details>
   <summary>Andreas Schaad (University of Applied Sciences Offenburg): Using a secure element as a blockchain oracle</summary>
-
+**Abstract**: 
 </details>
 <details>
   <summary>Victor Ermolaev (Bitfury), Albert Dercksen (Nedap):  Quis custodiet ipsos custodes?</summary>
-
+**Abstract**: 
 </details>
 <details>
   <summary>Layth Sliman (EFREI): Towards Blockchain-Based Collaborative Enterprise</summary>
-
+**Abstract**: 
 </details>
 <details>
   <summary>Wes Fulford (Bitfarms): Overview of the mining industry in North America</summary>
-
+**Abstract**: 
 </details>
 <details>
   <summary>Will Zhang (Finetics): TBD</summary>
-
+**Abstract**: 
 </details>
 17h30 - Reception
 
