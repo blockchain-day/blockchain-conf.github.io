@@ -35,20 +35,48 @@ The workshop aims to provide a balanced outlook and is designed for wide audienc
 12h00-13h00 Lunch break
 
 13h-14h40 Session 1
-    Yahya Shahsavari (ÉTS Montreal): Performance Modeling and Analysis of the Bitcoin Inventory Protocol
-    Edward Zhang (UofT): Optimizing Consensus Algorithms for Permissioned Blockchains
-    Claudio Miceli (Federal University of Rio de Janeiro): A smart contract for patient records in odontology school
-    James Webster (Penn State), Michael Steward (Penn State):  Granting and revoking permissions using a distributed ledger, at a global scale
+
+<details>
+  <summary>Yahya Shahsavari (ÉTS Montreal): Performance Modeling and Analysis of the Bitcoin Inventory Protocol</summary>
+    
+</details>
+<details>
+  <summary>Edward Zhang (UofT): Optimizing Consensus Algorithms for Permissioned Blockchains</summary>
+
+</details>
+<details>
+  <summary>Claudio Miceli (Federal University of Rio de Janeiro): A smart contract for patient records in odontology school</summary>
+
+</details>
+<details>
+  <summary>James Webster (Penn State), Michael Steward (Penn State):  Granting and revoking permissions using a distributed ledger, at a global scale</summary>
+
+</details>
     
 14h40-15h10 Coffee break
 
 15h10-17h15 Session 3
-    Andreas Schaad (University of Applied Sciences Offenburg): Using a secure element as a blockchain oracle
-    Victor Ermolaev (Bitfury), Albert Dercksen (Nedap):  Quis custodiet ipsos custodes?
-    Layth Sliman (EFREI): Towards Blockchain-Based Collaborative Enterprise
-    Wes Fulford (Bitfarms): Overview of the mining industry in North America
-    Will Zhang (Finetics): TBD
 
+<details>
+  <summary>Andreas Schaad (University of Applied Sciences Offenburg): Using a secure element as a blockchain oracle</summary>
+
+</details>
+<details>
+  <summary>Victor Ermolaev (Bitfury), Albert Dercksen (Nedap):  Quis custodiet ipsos custodes?</summary>
+
+</details>
+<details>
+  <summary>Layth Sliman (EFREI): Towards Blockchain-Based Collaborative Enterprise</summary>
+
+</details>
+<details>
+  <summary>Wes Fulford (Bitfarms): Overview of the mining industry in North America</summary>
+
+</details>
+<details>
+  <summary>Will Zhang (Finetics): TBD</summary>
+
+</details>
 17h30 - Reception
 
 ## Structure
